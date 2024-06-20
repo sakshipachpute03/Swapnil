@@ -1,0 +1,55 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px;
+    width: 50%;
+    height: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    display: flex;
+    justify-content: space-evenly;
+    /* t-/align: center;  */
+  
+}
+  
+  
+  
+  .card:hover {
+  transform: scale(1.05);
+  }  
+  
+  .card h2 {
+    margin-top: 0;
+    height: 60px;
+  } 
+  .img{
+            width: 120px;
+            height: 200px;
+            margin-left: -10px;
+            
+  
+  
+            
+  }
+  .name{
+            font-size: 20px;
+            padding: -50px;
+            margin-bottom: -19px;
+            margin-top: -190px; 
+  }
+  .price{
+            font-size: 20px;
+            margin-bottom: -10px;
+  }
+  
+  .a{
+    margin-top: -90px;
+    margin-bottom: 40px;
+    padding: 40px;
+    padding-bottom: 90px;
+  
+  }
+  .simply{
+            margin-left: 20px;
+  }

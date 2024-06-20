@@ -1,0 +1,22 @@
+.card{
+    height: 200px;
+    width: 250px;
+    border: 1px solid gray;
+    margin: 180px;
+    margin-left: 450px;
+    border-radius: 5px 5px;
+    /* text-align: center; */
+
+}
+.micro{
+    text-align: center;
+    /* margin-bottom: 20px; */
+}
+.button{
+    text-align: center;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 20px 20px;
+    /* background-color: grey; */
+}
